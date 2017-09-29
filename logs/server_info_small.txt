@@ -1,0 +1,10 @@
+'server_info': {'uname': 'Linux ip-10-16-168-40 4.4.51-40.69.amzn1.x86_64 
+'server_info': {'uname': 'Linux ip-10-19-115-59 4.4.51-40.69.amzn1.x86_64 
+'server_info': {'uname': 'Linux ip-10-16-168-40 4.4.51-40.69.amzn1.x86_64 
+'server_info': {'uname': 'Linux ip-10-21-197-209 4.4.51-40.69.amzn1.x86_64
+'server_info': {'uname': 'Linux ip-10-21-197-209 4.4.51-40.69.amzn1.x86_64
+'server_info': {'uname': 'Linux ip-10-16-168-40 4.4.51-40.69.amzn1.x86_64 
+'server_info': {'uname': 'Linux ip-10-19-115-59 4.4.51-40.69.amzn1.x86_64 
+'server_info': {'uname': 'Linux ip-10-21-197-209 4.4.51-40.69.amzn1.x86_64
+'server_info': {'uname': 'Linux ip-10-16-168-40 4.4.51-40.69.amzn1.x86_64 
+'server_info': {'uname': 'Linux ip-10-21-197-209 4.4.51-40.69.amzn1.x86_64
